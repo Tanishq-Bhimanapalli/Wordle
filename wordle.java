@@ -49,7 +49,7 @@ public class wordle {
 
         }
 
-        System.out.println("Word was "+answer);
+        System.out.println("\nWord was "+answer);
         sc.close();
     }
     
